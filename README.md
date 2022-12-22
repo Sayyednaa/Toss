@@ -1,2 +1,2 @@
-# Toss
-An Android app for coin toss
+# Cricket Toss
+An Android app for Cricket 🏏 toss
